@@ -58,7 +58,7 @@ html {
 
 body {
   font-family: var(--font-main);
-  background-color: orangered;
+  background-color: var(--primary-bg);
   color: var(--text-secondary);
 }
 
