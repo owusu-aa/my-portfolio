@@ -62,9 +62,6 @@ nav li a.active {
   align-items: center;
   text-align: center;
   padding-top: 80px;
-  background-image: url('path-to-your-background.jpg');
-  background-size: cover;
-  background-position: center;
 }
 
 .hero-content h1 {
